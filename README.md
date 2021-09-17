@@ -8,3 +8,9 @@ Assuming impulsive disturbances, PID controller is capable of mitigating the dis
 increasing the derivative part of the controller, leads to severely damped oscillations. This case may be of interest if we need to mitigate and suppress the vibrations in a short time interval: 
 
 ![image](https://user-images.githubusercontent.com/61955953/133811753-686e221a-45d5-4d67-b5d3-c960e0075c84.png)
+
+Conversely, increasing the integral part leads to smooth mitigations and as a result it takes longer time to suppress the oscillations: 
+
+![image](https://user-images.githubusercontent.com/61955953/133813054-269bd089-60b5-4a26-a569-c90d417da47b.png)
+
+
