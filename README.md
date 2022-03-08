@@ -4,7 +4,7 @@ Unwanted vibrations (oscillations) in electro-mechanical elements is an issue wh
 Assuming impulsive disturbances, PID controller is capable of mitigating the disturbance in decent amount of time. Of course, the gain values for the proportional, integral and derivative parts of the controller leads to different profiles in vibration amplitude. This means, one can readily reach his/her design desires by adopting various values of such gains. 
 Here is the animation of the time series analysis of the rod: 
 
-
+https://user-images.githubusercontent.com/61955953/157273550-2815214b-1d96-41f4-bbbd-b4dbb9505cca.mp4
 
 ![image](https://user-images.githubusercontent.com/61955953/133807962-aa9f3ba9-19a4-4b5b-ab22-aea50e1e1c9d.png)
 
